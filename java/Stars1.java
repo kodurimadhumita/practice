@@ -1,4 +1,4 @@
-class Stars
+class Stars1
 {
 	public static void main(String args[])
 	{

@@ -1,3 +1,16 @@
+/*
+print the given program
+           *
+         * *
+       * * *
+     * * * *
+   * * * * *
+
+*/
+
+
+
+
 class Stars2
 {
 	public static void main(String args[])
